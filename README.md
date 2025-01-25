@@ -117,12 +117,12 @@
 
 <p align="center">
   <a href="https://github.com/krupakar0307">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=krupakar0307&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=krupakar0307&theme=radical&border=7F3FBF&background=0D1117" alt="Krupakar's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/krupakar037">
+  <a href="https://github.com/krupakar0307">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krupakar0307&theme=radical" alt="Krupakar's GitHub Contribution"/>
   </a>
 </p>
