@@ -66,7 +66,7 @@
  <!--<img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />-->
   
  <!--✌️ &emsp; Enjoy to do debugging, programming and sharing knowledge <br/><br/>-->
- ❤️ &emsp; Love to learn new features<br/><br/>
+ ❤️ &emsp; Love to learn new stuff!<br/><br/>
  📧 &emsp; Reach me on: krupakarreddy.yasa@gmail.com<br/><br/>
  😇️ &emsp; Just started exploring my GitHub (2024), You can find more from now on.
 
