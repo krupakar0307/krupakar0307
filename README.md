@@ -1,137 +1,117 @@
-<!--
-<h2 align="center">
-  Welcome to Github World!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
--->
+<h1 align="center">Hi, I'm Krupakar Reddy 👋</h1>
 
-<!--
 <p align="center">
-  <a href="https://github.com/krupakar"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
-</p>
-
- --> 
-
-<!--<a href="https://komarev.com/ghpvc/?username=krupakar0307">-->
-<!--  <img align="right" src="https://komarev.com/ghpvc/?username=krupakar0307&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />-->
-<!--</a>-->
-
-
-<!--[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)-->
-
-<!-- Intro  -->
-<h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://krupakar.cloud">Krupakar Reddy</a></b>
-        </samp>
-</h3>
-
-
-<p align="center"> 
-  <samp>
-    <a href="https://www.google.com/search?q=krupakar+reddy+linkedin+debuide">「 Google Me 」</a>
-    <br>
-    「 I am a Cloud and DevOps Engineer from <b>Hyderabad</b> 」
-    <br>
-    <br>
-  </samp>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Cloud+%26+DevOps+Engineer;Automation+Enthusiast;Full-Stack+Builder;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 <p align="center">
- <a href="https://krupakarreddy-yasa.medium.com/" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="krupakar" />
- </a>
- <a href="https://linkedin.com/in/krupakar-reddy-9147a0231" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="krupakar"/>
- </a>
- <!-- <a href="https://dev.to/krupakar" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="krupakar" />
- </a> -->
- <!--<a href="https://twitter.com/_krupakar" target="_blank">-->
- <!-- <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />-->
- <!--</a>-->
- <!--<a href="https://instagram.com/_krupakar" target="_blank">-->
-  <!--<img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="krupakar" />-->
- <!--</a> -->
- <!--<a href="https://facebook.com/krupakar.dev" target="_blank">-->
- <!-- <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="krupakar"  />-->
- <!-- </a> -->
-</p>
-<br />
-
-<!-- About Section -->
- # About me
- 
-<p>
- <!--<img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />-->
-  
- <!--✌️ &emsp; Enjoy to do debugging, programming and sharing knowledge <br/><br/>-->
- ❤️ &emsp; Love to learn new stuff!<br/><br/>
- 📧 &emsp; Reach me on: krupakarreddy.yasa@gmail.com<br/><br/>
- 😇️ &emsp; Just started exploring my GitHub (2024), You can find more from now on.
-
+  <a href="https://krupakar.in" target="_blank">
+    <img src="https://img.shields.io/badge/Website-krupakar.in-0A66C2?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://linkedin.com/in/krupakar-reddy-9147a0231" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:krupakarreddy.yasa@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-krupakarreddy.yasa%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
-<br/>
-<!--<br/>-->
-<!--<br/>-->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=krupakar0307&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-<!--## Use To Code-->
+## About Me
 
-<!--![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)-->
-<!--![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)-->
-<!--![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)-->
-<!--![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)-->
-<!--![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)-->
-<!--![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)-->
-<!--![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)-->
-<!--![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)-->
-<!--![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)-->
-<!--![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)-->
-<!--![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)-->
-<!--![Ant-Design](https://img.shields.io/badge/AntDesign-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)-->
-<!--![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)-->
-<!--![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)-->
-<!--![Strapi](https://img.shields.io/badge/strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white)-->
-<!--![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)-->
-<!--![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)-->
-<!--![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)-->
-<!--![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)-->
-<!--![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)-->
+I’m a passionate Cloud and DevOps Engineer focused on building reliable, scalable, and efficient digital systems. I enjoy solving real-world problems with modern infrastructure, automation, and clean engineering practices.
 
-<!--<br/>-->
+I like turning ideas into deployable solutions — whether it’s cloud architecture, CI/CD pipelines, DevOps automation, or building user-friendly products that make an impact.
 
-<!--## Top Open Source --->
-<!--[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=krupakar&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/krupakar/itasks)-->
-<!--[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=krupakar&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/krupakar/urfolio)-->
-<!--[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=krupakar&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/krupakar/web-projects)-->
-<!--[![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=krupakar&repo=krupakar&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/krupakar/krupakar)-->
+- 🌍 Based in Hyderabad, India
+- ☁️ Interested in Cloud, DevOps, Automation, and Infrastructure
+- 💡 Always learning and experimenting with new tools and platforms
+- 🛠️ Building with the goal of making systems faster, smarter, and more resilient
 
-<!--<p align="left">-->
-<!--  <a href="https://github.com/krupakar0307?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>-->
-<!--</p>-->
+## What I Do
 
-<!--<br/>-->
-<!--<hr/>-->
-<!--<br/>-->
+- Cloud infrastructure and deployment workflows
+- CI/CD pipelines and automation
+- Application deployment and environment management
+- Linux and server-side system operations
+- Improving developer productivity with modern DevOps practices
+
+## Tech Stack
+
+### Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+### Cloud & DevOps
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+### Frameworks & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+</p>
+
+## Current Focus
+
+- Building practical DevOps workflows and deployment automation
+- Learning more about cloud-native architectures
+- Improving technical problem-solving and system design skills
+- Creating clean, useful projects with real-world value
+
+## GitHub Activity
 
 <p align="center">
   <a href="https://github.com/krupakar0307">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=krupakar0307&theme=radical&border=7F3FBF&background=0D1117" alt="Krupakar's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=krupakar0307&theme=radical&border=7F3FBF&background=0D1117" alt="GitHub streak" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/krupakar0307">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krupakar0307&theme=radical" alt="Krupakar's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krupakar0307&theme=radical" alt="GitHub contributions" />
   </a>
 </p>
 
-<a> 
-    <a href="https://github.com/krupakar0307"><img alt="Krupakar Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=krupakar0307&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/krupakar0307"><img alt=" " src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=krupakar0307&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
+<p align="center">
+  <a href="https://github.com/krupakar0307">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=krupakar0307&show_icons=true&theme=radical&count_private=true" alt="GitHub stats" />
+  </a>
+  <a href="https://github.com/krupakar0307">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=krupakar0307&layout=compact&theme=radical" alt="Top languages" />
+  </a>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krupakar0307&theme=react-dark&hide_border=true&area=true" alt="Contribution graph" />
+</p>
 
-![Krupakar's Graph](https://github-readme-activity-graph.vercel.app/graph?username=krupakar0307&custom_title=Krupakar's%20%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+## Let's Connect
+
+If you’re working on something exciting in cloud, software, or engineering, feel free to reach out.
+
+<p align="center">
+  <a href="https://krupakar.in" target="_blank">Website</a>
+  ·
+  <a href="https://linkedin.com/in/krupakar-reddy-9147a0231" target="_blank">LinkedIn</a>
+  ·
+  <a href="mailto:krupakarreddy.yasa@gmail.com">Email</a>
+</p>
